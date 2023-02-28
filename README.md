@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Arif Rasul Khan.
-- 👀 I’m interested in App development.
+- 👀 I’m interested in software development.
 - 🌱 I’m currently learning Btech CSE.
-- 💞️ I’m looking to collaborate on Android
+- 💞
 - 📫 How to reach me - arif05jamiah@gmail.com
 
 <!---
