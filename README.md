@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Arif Rasul Khan.
 - 👀 I’m interested in software development.
-- 🌱 I’m currently learning Btech CSE.
-- 💞Working in Internship.
+- 🌱 I have done B-Tech in Computer Science & Engineering.
+- 💞 Working in Internship.
 - 📫 How to reach me - arif05jamiah@gmail.com
 
 <!---
