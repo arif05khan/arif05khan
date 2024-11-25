@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Arif Rasul Khan.
 - 👀 I’m interested in software development.
 - 🌱 I have a B-Tech in Computer Science & Engineering.
-- 💞 I’m currently working as a Software Developer.
+- 💞 I’m currently working as a Software Engineer.
 - 📫 You can reach me at - arif05jamiah@gmail.com & ark396336@gmail.com
 
 <!---
