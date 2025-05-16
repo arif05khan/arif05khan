@@ -1,5 +1,5 @@
 👋 Hi, I’m Arif Rasul Khan
-Software Engineer | Data Science Enthusiast
+ Software Engineer | Data Science Enthusiast
 
 I’m a B-Tech in Computer Science & Engineering graduate and Full Stack Developer specializing in the MERN stack (MongoDB, Express.js, React, Node.js), building scalable web apps. I’m also passionate about data science, using Python, SQL, and Power BI for analytics and visualization.
 
